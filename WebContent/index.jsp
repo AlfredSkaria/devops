@@ -11,7 +11,7 @@
 <div class="topnav">
   
   
-  <h1>Dev-ops Project</h1>
+  <h1>Devops Project</h1>
 
 </div>
 
